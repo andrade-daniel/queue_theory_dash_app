@@ -1,6 +1,6 @@
 dash_table==4.3.0
 plotly_express==0.4.1
-dash_core_components==1.2.0
+dash_core_components==2.0.0
 dash_daq==0.2.2
 pandas==0.24.2
 dash_html_components==1.0.1
